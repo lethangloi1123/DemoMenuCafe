@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{650B1ABB-BE02-47DD-8784-6A072C444B49}|Api_menu\\Api_menu.csproj|c:\\users\\admin\\desktop\\menucafe\\apimenucafe\\api_menu\\api_menu\\controllers\\drinkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650B1ABB-BE02-47DD-8784-6A072C444B49}|Api_menu\\Api_menu.csproj|solutionrelative:api_menu\\controllers\\drinkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650B1ABB-BE02-47DD-8784-6A072C444B49}|Api_menu\\Api_menu.csproj|c:\\users\\admin\\desktop\\menucafe\\apimenucafe\\api_menu\\api_menu\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650B1ABB-BE02-47DD-8784-6A072C444B49}|Api_menu\\Api_menu.csproj|solutionrelative:api_menu\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650B1ABB-BE02-47DD-8784-6A072C444B49}|Api_menu\\Api_menu.csproj|c:\\users\\admin\\desktop\\menucafe\\apimenucafe\\api_menu\\api_menu\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650B1ABB-BE02-47DD-8784-6A072C444B49}|Api_menu\\Api_menu.csproj|solutionrelative:api_menu\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650B1ABB-BE02-47DD-8784-6A072C444B49}|Api_menu\\Api_menu.csproj|c:\\users\\admin\\desktop\\menucafe\\apimenucafe\\api_menu\\api_menu\\model\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650B1ABB-BE02-47DD-8784-6A072C444B49}|Api_menu\\Api_menu.csproj|solutionrelative:api_menu\\model\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650B1ABB-BE02-47DD-8784-6A072C444B49}|Api_menu\\Api_menu.csproj|c:\\users\\admin\\desktop\\menucafe\\apimenucafe\\api_menu\\api_menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650B1ABB-BE02-47DD-8784-6A072C444B49}|Api_menu\\Api_menu.csproj|solutionrelative:api_menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650B1ABB-BE02-47DD-8784-6A072C444B49}|Api_menu\\Api_menu.csproj|c:\\users\\admin\\desktop\\menucafe\\apimenucafe\\api_menu\\api_menu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{650B1ABB-BE02-47DD-8784-6A072C444B49}|Api_menu\\Api_menu.csproj|solutionrelative:api_menu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650B1ABB-BE02-47DD-8784-6A072C444B49}|Api_menu\\Api_menu.csproj|c:\\users\\admin\\desktop\\menucafe\\apimenucafe\\api_menu\\api_menu\\database\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650B1ABB-BE02-47DD-8784-6A072C444B49}|Api_menu\\Api_menu.csproj|solutionrelative:api_menu\\database\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Api_menu\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Api_menu\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:42:43.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\Program.cs",
+              "RelativeDocumentMoniker": "Api_menu\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\Program.cs",
+              "RelativeToolTip": "Api_menu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:38:14.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrinksController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\Controllers\\DrinksController.cs",
+              "RelativeDocumentMoniker": "Api_menu\\Controllers\\DrinksController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\Controllers\\DrinksController.cs",
+              "RelativeToolTip": "Api_menu\\Controllers\\DrinksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:13:46.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoffeeShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\database\\CoffeeShopDbContext.cs",
+              "RelativeDocumentMoniker": "Api_menu\\database\\CoffeeShopDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\database\\CoffeeShopDbContext.cs",
+              "RelativeToolTip": "Api_menu\\database\\CoffeeShopDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:11:47.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\model\\Drink.cs",
+              "RelativeDocumentMoniker": "Api_menu\\model\\Drink.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\model\\Drink.cs",
+              "RelativeToolTip": "Api_menu\\model\\Drink.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:09:13.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\model\\User.cs",
+              "RelativeDocumentMoniker": "Api_menu\\model\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\model\\User.cs",
+              "RelativeToolTip": "Api_menu\\model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:08:58.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\appsettings.json",
+              "RelativeDocumentMoniker": "Api_menu\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\appsettings.json",
+              "RelativeToolTip": "Api_menu\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T16:31:30.847Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\wwwroot\\images\\168e9ac6-cca6-41b3-b733-415283c50e8d.jpg",
+      "PackagePath": "staticwebassets\\images\\168e9ac6-cca6-41b3-b733-415283c50e8d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\wwwroot\\images\\2716685d-1a22-49ee-a9f9-5cc52c659e12.jpg",
+      "PackagePath": "staticwebassets\\images\\2716685d-1a22-49ee-a9f9-5cc52c659e12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\wwwroot\\images\\3521d5c0-1ce9-457a-8a55-2d5439de9ed3.jpg",
+      "PackagePath": "staticwebassets\\images\\3521d5c0-1ce9-457a-8a55-2d5439de9ed3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\wwwroot\\images\\59c070a4-43a5-4f1c-92f5-b9844eb10027.jpg",
+      "PackagePath": "staticwebassets\\images\\59c070a4-43a5-4f1c-92f5-b9844eb10027.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\wwwroot\\images\\5b5421ea-5b08-4d66-a285-5edd5a10a77f.jpg",
+      "PackagePath": "staticwebassets\\images\\5b5421ea-5b08-4d66-a285-5edd5a10a77f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MenuCafe\\ApiMenuCaFe\\Api_menu\\Api_menu\\wwwroot\\images\\a7d005f5-9eb8-4763-866f-3adbd89f50d5.jpg",
+      "PackagePath": "staticwebassets\\images\\a7d005f5-9eb8-4763-866f-3adbd89f50d5.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Api_menu.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Api_menu.props",
+      "PackagePath": "build\\Api_menu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Api_menu.props",
+      "PackagePath": "buildMultiTargeting\\Api_menu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Api_menu.props",
+      "PackagePath": "buildTransitive\\Api_menu.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
